@@ -1,0 +1,19 @@
+Agile: 
+    1. Iterative approach to project management & software development.
+    2. Helps team to deliver work in small consumable and faster approach.
+    3. Requirements, plans and results are evaluated continuously.
+    4. It calls for collaboration, adaptation among team members.
+
+Principles
+- Iterative, incremental, and evolutionary
+- Efficient and face-to-face communication
+- Very short feedback loop and adaptation cycle
+- Quality focus
+
+Pitfalls
+- Lack of overall product design
+- Adding stories to an iteration in progress
+- Insufficient training
+- Developer burnout
+- Fixed time, resources, scope, and Quality
+- Attempting to take on too much in an iteration
